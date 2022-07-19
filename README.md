@@ -10,8 +10,8 @@
 
 **JAVA**
 * *Basic Java Introduction*
-* *Java GUI’s /*
-* *Java inheritance and polymorphism /*
+* *Java GUI’s *
+* *Java inheritance and polymorphism *
 * *Built Basic Games using JAVA* 
 
 
@@ -24,18 +24,18 @@
 
 
 **FAMILIAR CODE ENVIRONMENTS**
-* *Jupyter Notebook /*
-* *Google Colabs /*
-* *Visual studio code /*
-* *Notepad++ /*
+* *Jupyter Notebook *
+* *Google Colabs *
+* *Visual studio code *
+* *Notepad++ *
 * *BlueJ* 
 
 
 **DATABASES + OTHER**
-* *Database queries and display with PHP /*
-* *Intermediate SQL /*
-* *Familiar using Big Query /*
-* *Unix /*
+* *Database queries and display with PHP *
+* *Intermediate SQL *
+* *Familiar using Big Query *
+* *Unix *
 * *Academic excellence scholarship /*
 * *HSBC Work experience /* 
 
