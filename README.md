@@ -1,43 +1,47 @@
 👋 Hi, I’m @ismailhx
+
 👀 I’m interested in Machine learning 
+
 🌱 I’m currently learning how to use BigQuery and Dataflow
+
 🎓 I’m currently studying at The University of Kent - Artificial Intelligence
+
 📝 My Current Experience:
 
+JAVA:
+
 Basic Java Introduction
-
-Java GUI’s
-
-Java inheritance and polymorphism
-
+Java GUI’s /
+Java inheritance and polymorphism /
 Built Basic Games using JAVA
 
 
-Built 3 Websites in HTML CSS and JS,
+WEB DEVELOPMENT:
 
+Built 3 Websites in HTML CSS and JS
+
+
+PYTHON:
 
 Basic Python Programmer
 
 
-Familiar with Jupyter Notebook
-
-Familiar with Google Colabs
-
-Familiar with Visual studio code
-
-
-
-Database queries and display with PHP
+FAMILIAR CODE ENVIRONMENTS
+Jupyter Notebook /
+Google Colabs /
+Visual studio code /
+Notepad++ /
+BlueJ
 
 
-Academic excellence scholarship
-HSBC Work experience
+DATABASES + OTHER
+Database queries and display with PHP /
+Intermediate SQL /
+Familiar using Big Query / 
+Unix /
+Academic excellence scholarship /
+HSBC Work experience /
 
-Can write SQL queries
-
-Can query datasets on Google cloud using Big Query - SQL
-
-Unix
 
 
 <!---
