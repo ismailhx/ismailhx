@@ -27,9 +27,7 @@
 * *Jupyter Notebook *
 * *Google Colabs *
 * *Visual studio code *
-* *BlueJ* ![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://dashboard.snapcraft.io/site_media/appmedia/2020/04/bluej.png))
-
-
+* *BlueJ*
 
 
 **DATABASES + OTHER**
