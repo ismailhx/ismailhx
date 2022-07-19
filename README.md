@@ -8,22 +8,22 @@
 
 📝 My Current Experience:
 
-**JAVA:**
+**JAVA**
 * *Basic Java Introduction*
 * *Java GUI’s /*
 * *Java inheritance and polymorphism /*
 * *Built Basic Games using JAVA* 
 
 
-**WEB DEVELOPMENT:**
+**WEB DEVELOPMENT**
 * *Built 3 Websites in HTML CSS and JS* 
 
 
-**PYTHON:**
+**PYTHON**
 * *Basic Python Programmer* 
 
 
-**FAMILIAR CODE ENVIRONMENTS:**
+**FAMILIAR CODE ENVIRONMENTS**
 * *Jupyter Notebook /*
 * *Google Colabs /*
 * *Visual studio code /*
@@ -31,7 +31,7 @@
 * *BlueJ* 
 
 
-**DATABASES + OTHER:**
+**DATABASES + OTHER**
 * *Database queries and display with PHP /*
 * *Intermediate SQL /*
 * *Familiar using Big Query /*
