@@ -6,7 +6,7 @@
 
 🎓 I’m currently studying at The University of Kent - Artificial Intelligence
 
-📝 My Current Experience:
+📝 Current Experience:
 
 **JAVA**
 * *Basic Java Introduction*
@@ -24,19 +24,19 @@
 
 
 **FAMILIAR CODE ENVIRONMENTS**
-* *Jupyter Notebook *
-* *Google Colabs *
-* *Visual studio code *
+* *Jupyter Notebook*
+* *Google Colabs*
+* *Visual studio code*
 * *BlueJ*
 
 
 **DATABASES + OTHER**
-* *Database queries and display with PHP *
-* *Intermediate SQL *
-* *Familiar using Big Query *
-* *Unix *
-* *Academic excellence scholarship /*
-* *HSBC Work experience /* 
+* *Database queries and display with PHP*
+* *Intermediate SQL*
+* *Familiar using Big Query*
+* *Unix*
+* *Academic excellence scholarship*
+* *HSBC Work experience* 
 
 
 
