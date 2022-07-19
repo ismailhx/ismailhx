@@ -10,8 +10,8 @@
 
 **JAVA**
 * *Basic Java Introduction*
-* *Java GUI’s *
-* *Java inheritance and polymorphism *
+* *Java GUI’s*
+* *Java inheritance and polymorphism*
 * *Built Basic Games using JAVA* 
 
 
@@ -21,6 +21,10 @@
 
 **PYTHON**
 * *Basic Python Programmer* 
+* *Pandas*
+* *Numpy*
+* *scikitlearn*
+* *Matplotlib*
 
 
 **FAMILIAR CODE ENVIRONMENTS**
@@ -30,14 +34,16 @@
 * *BlueJ*
 
 
-**DATABASES + OTHER**
+**DATABASES + OTHER LANGUAGES**
 * *Database queries and display with PHP*
 * *Intermediate SQL*
-* *Familiar using Big Query*
 * *Unix*
 * *Academic excellence scholarship*
 * *HSBC Work experience* 
 
+**FURTHER INTRESTS**
+* *Familiar using Big Query*
+* *Basic understanding of Blockchain*
 
 
 <!---
