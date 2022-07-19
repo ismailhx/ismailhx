@@ -13,17 +13,17 @@
 * *Basic Java Introduction
 Java GUI’s /
 Java inheritance and polymorphism /
-Built Basic Games using JAVA* *
+Built Basic Games using JAVA* 
 
 
 **WEB DEVELOPMENT:**
 
-* *Built 3 Websites in HTML CSS and JS* *
+* *Built 3 Websites in HTML CSS and JS* 
 
 
 **PYTHON:**
 
-* *Basic Python Programmer* *
+* *Basic Python Programmer* 
 
 
 **FAMILIAR CODE ENVIRONMENTS:**
@@ -32,7 +32,7 @@ Built Basic Games using JAVA* *
 Google Colabs /
 Visual studio code /
 Notepad++ /
-BlueJ* *
+BlueJ* 
 
 
 **DATABASES + OTHER:**
@@ -42,7 +42,7 @@ Intermediate SQL /
 Familiar using Big Query / 
 Unix /
 Academic excellence scholarship /
-HSBC Work experience /* *
+HSBC Work experience /* 
 
 
 
