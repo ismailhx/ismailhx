@@ -25,6 +25,7 @@
 * *Numpy*
 * *scikitlearn*
 * *Matplotlib*
+* *Keras*
 
 
 **FAMILIAR CODE ENVIRONMENTS**
