@@ -35,12 +35,17 @@
 * *BlueJ*
 
 
-**DATABASES + OTHER LANGUAGES**
+**DATABASES + OTHER**
 * *Database queries and display with PHP*
 * *Intermediate SQL*
 * *Unix*
 * *Academic excellence scholarship*
-* *HSBC Work experience* 
+* *HSBC Work-life exposure* 
+
+
+**UNIVERSITY**
+* *YEAR 1: DISTINCTION 88.5% AVERAGE*
+
 
 **FURTHER INTRESTS**
 * *Familiar using Big Query*
