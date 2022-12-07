@@ -2,7 +2,7 @@
 
 👀 I’m interested in Machine learning 
 
-🌱 I’m currently learning how to use BigQuery and Dataflow
+🌱 I’m currently learning how to use Dataflow and AWS
 
 🎓 I’m currently studying at The University of Kent - Artificial Intelligence
 
