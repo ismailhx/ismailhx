@@ -18,8 +18,6 @@
 **WEB DEVELOPMENT**
 * *Built 3 Websites in HTML CSS and JS* 
 * *Jquery*
-* *XML*
-*  *JSON*
 
 
 **PYTHON**
@@ -42,6 +40,8 @@
 * *Database queries and display with PHP*
 * *Intermediate SQL*
 * *Unix*
+* * *XML*
+*  *JSON*
 * *Academic excellence scholarship*
 * *HSBC Work-life exposure* 
 
