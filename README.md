@@ -40,7 +40,7 @@
 * *Database queries and display with PHP*
 * *Intermediate SQL*
 * *Unix*
-* * *XML*
+* *XML*
 *  *JSON*
 * *Academic excellence scholarship*
 * *HSBC Work-life exposure* 
