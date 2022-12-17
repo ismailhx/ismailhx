@@ -34,6 +34,7 @@
 * *Google Colabs*
 * *Visual studio code*
 * *BlueJ*
+* *IntelliJ*
 
 
 **DATABASES + OTHER**
