@@ -43,6 +43,7 @@
 * *Unix*
 * *XML*
 *  *JSON*
+*  * *Understanding of Agile methodologies* 
 * *Academic excellence scholarship*
 * *HSBC Work-life exposure* 
 
