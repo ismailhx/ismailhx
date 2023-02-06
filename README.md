@@ -35,6 +35,8 @@
 * *Visual studio code*
 * *BlueJ*
 * *IntelliJ*
+* *Eclipse*
+* *Notepad++*
 
 
 **DATABASES + OTHER**
