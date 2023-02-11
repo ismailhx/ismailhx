@@ -18,6 +18,7 @@
 **WEB DEVELOPMENT**
 * *Built 3 Websites in HTML CSS and JS* 
 * *Jquery*
+* *CodeIgniter*
 
 
 **PYTHON**
