@@ -46,7 +46,7 @@
 * *Unix*
 * *XML*
 *  *JSON*
-*  * *Understanding of Agile methodologies* 
+*  *Understanding of the Agile and Waterfall methodologies* 
 * *Academic excellence scholarship*
 * *HSBC Work-life exposure* 
 
