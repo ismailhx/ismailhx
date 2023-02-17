@@ -25,7 +25,11 @@
 * *Basic Python Programmer* 
 * *Pandas*
 * *Numpy*
-* *scikitlearn*
+* *scikitlearn:*
+- *Decision Tree Classifier*
+- *Random Forest Classifier*
+- *test_train_split*
+- etc
 * *Matplotlib*
 * *Keras*
 
@@ -43,7 +47,8 @@
 **DATABASES + OTHER**
 * *Database queries and display with PHP*
 * *Intermediate SQL*
-* *Unix*
+* *Relational ALgebra*
+* *Basic Unix*
 * *XML*
 *  *JSON*
 *  *Understanding of the Agile and Waterfall methodologies* 
