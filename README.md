@@ -25,11 +25,11 @@
 * *Basic Python Programmer* 
 * *Pandas*
 * *Numpy*
-* *scikitlearn:*
-- *Decision Tree Classifier
-- *Random Forest Classifier
-- *test_train_split
-- *etc
+* *scikitlearn:
+Decision Tree Classifier
+Random Forest Classifier
+test_train_split
+etc*
 * *Matplotlib*
 * *Keras*
 
