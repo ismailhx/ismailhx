@@ -26,9 +26,9 @@
 * *Pandas*
 * *Numpy*
 * *scikitlearn:
-Decision Tree Classifier
-Random Forest Classifier
-test_train_split
+Decision Tree Classifier |
+Random Forest Classifier |
+test_train_split |
 etc*
 * *Matplotlib*
 * *Keras*
