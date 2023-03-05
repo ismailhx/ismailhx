@@ -42,6 +42,10 @@ etc*
 * *IntelliJ*
 * *Eclipse*
 * *Notepad++*
+* *GitHub*
+* *GitLabs*
+* *Pycharm*
+* *PuTTY*
 
 
 **DATABASES + OTHER**
