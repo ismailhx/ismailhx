@@ -52,6 +52,9 @@ etc*
 * *Database queries and display with PHP*
 * *Intermediate SQL*
 * *Relational ALgebra*
+* *Building Conceptual Data models*
+* *Building Logical Data models*
+* *Building Physical Data models*
 * *Basic Unix*
 * *XML*
 *  *JSON*
