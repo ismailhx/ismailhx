@@ -2,7 +2,7 @@
 
 👀 I’m interested in Machine learning 
 
-🌱 I’m currently learning about Tensorflow and Conceptually Building Databases
+🌱 I’m currently learning about Tensorflow and how to build databases using PostgresSQL.
 
 🎓 I’m currently studying at The University of Kent - Artificial Intelligence
 
