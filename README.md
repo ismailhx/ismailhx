@@ -8,6 +8,9 @@
 
 📝 Current Experience:
 
+**CERTIFICATIONS**
+Greater Learning Academy : MatplotLib
+
 **JAVA**
 * *Basic Java Introduction*
 * *Java GUI’s*
