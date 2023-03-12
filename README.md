@@ -9,7 +9,7 @@
 📝 Current Experience:
 
 **CERTIFICATIONS**
-Greater Learning Academy : MatplotLib
+* *Greater Learning Academy : MatplotLib*
 
 **JAVA**
 * *Basic Java Introduction*
