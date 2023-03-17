@@ -10,6 +10,9 @@
 
 **CERTIFICATIONS**
 * *Greater Learning Academy : MatplotLib*
+* *Greater Learning Academy : Seaborn*
+* *Greater Learning Academy : Python Data Structures*
+* *Greater Learning Academy : Google Colabratory*
 
 **JAVA**
 * *Basic Java Introduction*
@@ -39,7 +42,7 @@ etc*
 
 **FAMILIAR CODE ENVIRONMENTS**
 * *Jupyter Notebook*
-* *Google Colabs*
+* *Google Colab - CERTIFIED*
 * *Visual studio code*
 * *BlueJ*
 * *IntelliJ*
