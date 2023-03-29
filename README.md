@@ -61,7 +61,7 @@ etc*
 **DATABASES + OTHER**
 * *Database queries and display with PHP*
 * *Intermediate SQL*
-* *Relational ALgebra*
+* *Relational Algebra*
 * *Building Conceptual Data models*
 * *Building Logical Data models*
 * *Building Physical Data models*
