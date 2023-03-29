@@ -14,6 +14,11 @@
 * *Greater Learning Academy : Python Data Structures*
 * *Greater Learning Academy : Google Colabratory*
 
+**AWARDS**
+Undergraduate of the year - AI and Robotics at Ocado
+
+Academic excellence scholarship at the University of Kent
+
 **JAVA**
 * *Basic Java Introduction*
 * *Java GUI’s*
