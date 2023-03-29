@@ -15,8 +15,8 @@
 * *Greater Learning Academy : Google Colabratory*
 
 **AWARDS**
-* *Undergraduate of the year - AI and Robotics at Ocado* *
-* *Academic excellence scholarship at the University of Kent* *
+* *Undergraduate of the year - AI and Robotics at Ocado* 
+* *Academic excellence scholarship at the University of Kent* 
 
 **JAVA**
 * *Basic Java Introduction*
