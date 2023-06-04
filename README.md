@@ -13,6 +13,7 @@
 * *Greater Learning Academy : Seaborn*
 * *Greater Learning Academy : Python Data Structures*
 * *Greater Learning Academy : Google Colabratory*
+* *MachineLearning.org.in : ChatGPT*
 
 
 
