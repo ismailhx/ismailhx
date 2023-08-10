@@ -43,6 +43,7 @@ test_train_split |
 etc*
 * *Matplotlib*
 * *Keras*
+* *Pyspark*
 
 
 **FAMILIAR CODE ENVIRONMENTS**
@@ -60,12 +61,14 @@ etc*
 
 
 **DATABASES + OTHER**
+* *Data Engineer at Glencore*
 * *Database queries and display with PHP*
 * *Intermediate SQL*
 * *Relational Algebra*
 * *Building Conceptual Data models*
 * *Building Logical Data models*
 * *Building Physical Data models*
+* *Azure Synapse Analytics*
 * *Basic Unix*
 * *XML*
 *  *JSON*
@@ -76,7 +79,7 @@ etc*
 
 **UNIVERSITY**
 * *YEAR 1: DISTINCTION 88.5% AVERAGE*
-
+* *YEAR 2: DISTINCTION 76% AVERAGE*
 
 **FURTHER INTRESTS**
 * *Familiar using Big Query*
