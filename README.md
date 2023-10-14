@@ -1,8 +1,7 @@
 👋 Hi, I’m @ismailhx
 
-Data Engineer
+Data Engineer / Machine learning specialist 
 
-👀 I’m interested in Machine learning 
 
 🌱 I’m currently learning about Tensorflow and how to build databases using PostgresSQL.
 
@@ -32,6 +31,7 @@ Data Engineer
 * *Built 3 Websites in HTML CSS and JS* 
 * *Jquery*
 * *CodeIgniter*
+* *REACT*
 
 
 **PYTHON**
