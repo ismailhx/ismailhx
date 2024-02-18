@@ -10,6 +10,8 @@ Data Engineer / Machine learning specialist
 📝 Current Experience:
 
 **CERTIFICATIONS**
+* *Azure : AZ-900*
+* *Azure : AI-900*
 * *Greater Learning Academy : MatplotLib*
 * *Greater Learning Academy : Seaborn*
 * *Greater Learning Academy : Python Data Structures*
