@@ -86,7 +86,7 @@ etc*
 * *YEAR 2: DISTINCTION 76% AVERAGE*
 
 **ACHIEVEMENTS**
-UGOTY AI and Robotics finalist 2023
+* *UGOTY AI and Robotics finalist 2023*
 
 **FURTHER INTRESTS**
 * *Familiar using Big Query*
