@@ -85,6 +85,9 @@ etc*
 * *YEAR 1: DISTINCTION 88.5% AVERAGE*
 * *YEAR 2: DISTINCTION 76% AVERAGE*
 
+**ACHIEVEMENTS**
+UGOTY AI and Robotics finalist 2023
+
 **FURTHER INTRESTS**
 * *Familiar using Big Query*
 * *Basic understanding of Blockchain*
