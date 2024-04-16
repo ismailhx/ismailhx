@@ -22,7 +22,7 @@ Data Engineer / Machine learning specialist
 
 * *Academic excellence scholarship at the University of Kent*
 
-  **PYTHON**
+**PYTHON**
 * *Expert Python Programmer* 
 * *Pandas*
 * *Numpy*
