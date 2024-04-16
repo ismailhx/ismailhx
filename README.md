@@ -3,9 +3,9 @@
 Data Engineer / Machine learning specialist 
 
 
-🌱 I’m currently learning about Tensorflow and how to build databases using PostgresSQL.
+🌱 I’m currently learning about Tensorflow.
 
-🎓 I’m currently studying at The University of Kent - Artificial Intelligence
+🎓 I’m currently about to graduate with a first at The University of Kent - Artificial Intelligence
 
 📝 Current Experience:
 
@@ -20,7 +20,21 @@ Data Engineer / Machine learning specialist
 
 
 
-* *Academic excellence scholarship at the University of Kent* 
+* *Academic excellence scholarship at the University of Kent*
+
+  **PYTHON**
+* *Expert Python Programmer* 
+* *Pandas*
+* *Numpy*
+* *scikitlearn:
+Decision Tree Classifier |
+Random Forest Classifier |
+test_train_split |
+etc*
+* *Matplotlib*
+* *Keras*
+* *Pyspark*
+  
 
 **JAVA**
 * *Basic Java Introduction*
@@ -34,20 +48,6 @@ Data Engineer / Machine learning specialist
 * *Jquery*
 * *CodeIgniter*
 * *REACT*
-
-
-**PYTHON**
-* *Basic Python Programmer* 
-* *Pandas*
-* *Numpy*
-* *scikitlearn:
-Decision Tree Classifier |
-Random Forest Classifier |
-test_train_split |
-etc*
-* *Matplotlib*
-* *Keras*
-* *Pyspark*
 
 
 **FAMILIAR CODE ENVIRONMENTS**
