@@ -21,6 +21,7 @@ Data Engineer / Machine learning specialist
 
 
 * *Academic excellence scholarship at the University of Kent*
+  
 **MACHINE LEARNING**
 * *CNN’s*
 * *RNN’s*
