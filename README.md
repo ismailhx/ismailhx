@@ -10,6 +10,9 @@
 
 📝 Current Experience:
 
+**PREVIOUS ROLES**
+* *Data/ML Engineer at Glencore* 
+
 **CERTIFICATIONS**
 * *Azure : AZ-900*
 * *Azure : AI-900*
