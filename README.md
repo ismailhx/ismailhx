@@ -21,6 +21,16 @@ Data Engineer / Machine learning specialist
 
 
 * *Academic excellence scholarship at the University of Kent*
+**MACHINE LEARNING**
+* *CNN’s*
+* *RNN’s*
+* *KNN’s*
+* *Reinforcement Learning*
+* *Computer Vision*
+* *Classification*
+* *Regression*
+* *Genetic Algorithms*
+* *Word2Vec* 
 
 **PYTHON**
 * *Expert Python Programmer* 
