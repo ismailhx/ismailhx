@@ -1,6 +1,6 @@
 👋 Hi, I’m @ismailhx
 
-Data Engineer / Machine learning specialist 
+ Machine learning specialist 
 
 
 🌱 I’m currently learning about Tensorflow.
