@@ -7,6 +7,9 @@ Data Engineer / Machine learning specialist
 
 🎓 I’m currently about to graduate with a first at The University of Kent - Artificial Intelligence
 
+![image](https://github.com/ismailhx/ismailhx/assets/101983947/b3fdec37-e077-48fe-adc6-3d8160c1372e)
+
+
 📝 Current Experience:
 
 **CERTIFICATIONS**
