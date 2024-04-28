@@ -80,7 +80,6 @@ etc*
 
 
 **DATABASES + OTHER**
-* *Data Engineer at Glencore*
 * *Database queries and display with PHP*
 * *Intermediate SQL*
 * *Relational Algebra*
