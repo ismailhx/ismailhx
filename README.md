@@ -3,9 +3,9 @@
  Machine learning specialist 
 
 
-🌱 I’m currently learning about Tensorflow.
+🎓 Currently a Robotics (AI) Postgraduate at Kings College 
 
-🎓 I’m currently about to graduate with a first at The University of Kent - Artificial Intelligence
+🎓 1st class graduate at the University of Kent - Artificial Intelligence
 
 
 📝 Current Experience:
