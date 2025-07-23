@@ -30,8 +30,8 @@ From building scalable data pipelines in **Azure and Databricks** to crafting pr
 - Processed **millions of records** on Azure Analytics with PySpark  
 - Generated SQL-based views and applied ML to optimise shipping operations
 
-#### 🔹 Data Internship — *HSBC (2019)*  
-- Worked on model maintenance and development using **Google Cloud**  
+#### 🔹 Data Work Experience — *HSBC (2019)*  
+- Learnt about model maintenance and development using **Google Cloud**  
 - Gained exposure to **enterprise-level data infrastructure**, cloud computing, and AI pipelines  
 
 ---
