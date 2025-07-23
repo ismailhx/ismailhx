@@ -4,6 +4,7 @@
 
 
 🎓 Currently a Robotics (AI) Postgraduate at Kings College 
+
 🎓 1st class graduate at the University of Kent - Artificial Intelligence
 
 
