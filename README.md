@@ -1,130 +1,109 @@
-👋 Hi, I’m @ismailhx
+# 👋 Hi, I’m @ismailhx
 
- Machine learning and Data Specialist 
+### 🧠 Data Cleansing Specialist | Machine Learning Engineer | Robotics (AI) Postgraduate
 
+---
 
-🎓 Currently a Robotics (AI) Postgraduate at Kings College 
+🎓 Currently a **Robotics (AI) Postgraduate at King's College London**  
+🎓 Graduated with **First Class Honours in Artificial Intelligence** from the University of Kent  
+🏅 **UGOTY AI & Robotics Finalist 2023**
 
-🎓 1st class graduate at the University of Kent - Artificial Intelligence
+---
 
+### 💼 About Me
 
-📝 Current Experience:
+I'm a data cleansing and machine learning expert with **8+ years of experience** cleaning, transforming, modelling and deploying complex datasets across multiple industries, including **finance**, **oil & shipping**, and **automotive insurance**.
 
-8 Years experience of Data Cleansing, Processing , Modelling.
+From building scalable data pipelines in **Azure and Databricks** to crafting predictive models using **Scikit-learn, PySpark**, and **Keras**, my expertise lies in creating clean, actionable data that powers real-world AI systems.  
 
+---
 
+### 🚀 Experience
 
-**PREVIOUS ROLES**
+#### 🔹 Data/ML Engineer — *AA UK (2024)*  
+- Led the **Driver Fault Claims** ML project  
+- Cleansed and processed **6 million rows of claims data** using PySpark on **Databricks**  
+- Applied ML techniques to predict **customer risk profiles**
 
-- * Data work experience at HSBC 2019* *
-Data work experience learning how to maintain and develop models on Google Cloud.
-Engaged with Cloud, Data and AI Experts.
+#### 🔹 Data/ML Engineer — *Glencore (2023)*  
+- Headed the **Oil Shipping Vessel** data project  
+- Processed **millions of records** on Azure Analytics with PySpark  
+- Generated SQL-based views and applied ML to optimise shipping operations
 
-- * Data/ML Engineer at Glencore 2023* *
-Head of oil shipping vessel project in 2023
-Cleansed and processed millions of complicated oil shipping vessel datasets on Azure Analytics using Pyspark.
-Produced Views using SQL and then analysed using ML techniques.
+#### 🔹 Data Internship — *HSBC (2019)*  
+- Worked on model maintenance and development using **Google Cloud**  
+- Gained exposure to **enterprise-level data infrastructure**, cloud computing, and AI pipelines  
 
-- * Data/ML Engineer at AA 2024* *
-Head of driver fault claims project in 2024
-Cleansed and processed 6 million rows of £50,000's worth of driver fault claims on Databricks using Pyspark.
-Extracted Data to apply ML techniques to predict good and bad customers.
+---
 
-**CERTIFICATIONS**
-* *Azure : AZ-900*
-* *Azure : AI-900*
-* *Greater Learning Academy : MatplotLib*
-* *Greater Learning Academy : Seaborn*
-* *Greater Learning Academy : Python Data Structures*
-* *Greater Learning Academy : Google Colabratory*
-* *MachineLearning.org.in : ChatGPT*
-* *Academic excellence scholarship at the University of Kent*
+### 📜 Certifications
 
+- **Azure Fundamentals (AZ-900)**
+- **Azure AI Fundamentals (AI-900)**
+- **Greater Learning Academy:** Python, Seaborn, Matplotlib, Google Colab  
+- **MachineLearning.org.in:** ChatGPT  
+- **Academic Excellence Scholarship** — University of Kent  
 
+---
 
-**MACHINE LEARNING**
-* *CNN’s*
-* *RNN’s*
-* *KNN’s*
-* *Reinforcement Learning*
-* *Computer Vision*
-* *Classification*
-* *Regression*
-* *Genetic Algorithms*
-* *Word2Vec* 
+### 🤖 Machine Learning & AI
 
-**PYTHON**
-* *Expert Python Programmer* 
-* *Pandas*
-* *Numpy*
-* *scikitlearn:
-Decision Tree Classifier |
-Random Forest Classifier |
-test_train_split |
-etc*
-* *Matplotlib*
-* *Keras*
-* *Pyspark*
-  
+- Convolutional Neural Networks (CNNs)  
+- Recurrent Neural Networks (RNNs)  
+- K-Nearest Neighbours (KNNs)  
+- Reinforcement Learning  
+- Regression & Classification  
+- Genetic Algorithms  
+- Word2Vec  
+- Computer Vision (CV)  
 
-**JAVA**
-* *Basic Java Introduction*
-* *Java GUI’s*
-* *Java inheritance and polymorphism*
-* *Built Basic Games using JAVA* 
+---
 
+### 🐍 Python Stack
 
-**WEB DEVELOPMENT**
-* *Built 3 Websites in HTML CSS and JS* 
-* *Jquery*
-* *CodeIgniter*
-* *REACT*
+- **Expert Python Programmer**  
+- **PySpark** | **Pandas** | **NumPy**  
+- **Scikit-learn** (Random Forest, Decision Tree, train_test_split, etc.)  
+- **Keras** | **Matplotlib**  
 
+---
 
-**FAMILIAR CODE ENVIRONMENTS**
-* *Jupyter Notebook*
-* *Google Colab - CERTIFIED*
-* *Visual studio code*
-* *BlueJ*
-* *IntelliJ*
-* *Eclipse*
-* *Notepad++*
-* *GitHub*
-* *GitLabs*
-* *Pycharm*
-* *PuTTY*
+### ☕ Project Highlight: `brew-clean`
 
+**An award-winning coffee dataset cleansing and ML pipeline built with Scikit-Learn and Dash.**  
+Designed to showcase best practices in **data quality, preprocessing, and visualisation**.  
 
-**DATABASES + OTHER**
-* *Database queries and display with PHP*
-* *Intermediate SQL*
-* *Relational Algebra*
-* *Building Conceptual Data models*
-* *Building Logical Data models*
-* *Building Physical Data models*
-* *Azure Synapse Analytics*
-* *Basic Unix*
-* *XML*
-*  *JSON*
-*  *Understanding of the Agile and Waterfall methodologies* 
-* *Academic excellence scholarship*
-* *HSBC Work-life exposure* 
+---
 
+### 💻 Tech Experience
 
-**UNIVERSITY**
-* *YEAR 1: DISTINCTION 88.5% AVERAGE*
-* *YEAR 2: DISTINCTION 76% AVERAGE*
+- **Java** (Inheritance, GUIs, basic games)  
+- **Web Development:** HTML, CSS, JS, jQuery, React, CodeIgniter  
+- **SQL**, Relational Algebra, Data Modelling (ERD to Physical)  
+- **Tools:** Jupyter, Colab, VS Code, GitHub, Pycharm, IntelliJ  
+- **Environments:** Azure Synapse, Databricks, Google Cloud, UNIX  
 
-**ACHIEVEMENTS**
-* *UGOTY AI and Robotics finalist 2023*
+---
 
-**FURTHER INTRESTS**
-* *Familiar using Big Query*
-* *Basic understanding of Blockchain*
+### 🧠 Robotics & Academic Highlights
 
+- Strong foundation in **AI for Robotics**  
+- Consistent academic performance:
+  - **Year 1 Avg:** 88.5% (Distinction)  
+  - **Year 2 Avg:** 76% (Distinction)  
+- Finalist in multiple AI and Robotics challenges  
+
+---
+
+### 🎯 Interests
+
+- Big Query  
+- Blockchain fundamentals  
+- Applying AI to real-world optimisation and automation problems  
+
+---
 
 <!---
 ismailhx/ismailhx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
