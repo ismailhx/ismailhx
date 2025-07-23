@@ -1,6 +1,6 @@
 👋 Hi, I’m @ismailhx
 
- Machine learning specialist 
+ Machine learning and Dataspecialist 
 
 
 🎓 Currently a Robotics (AI) Postgraduate at Kings College 
@@ -11,7 +11,15 @@
 📝 Current Experience:
 
 **PREVIOUS ROLES**
-* *Data/ML Engineer at Glencore* 
+* *Data/ML Engineer at Glencore*
+Head of oil shipping vessel project in 2023
+Cleansed and processed millions of complicated oil shipping vessel datasets on Azure Analytics using Pyspark.
+Produced Views using SQL and then analysed using ML techniques.
+
+* *Data/ML Engineer at AA*
+Head of driver fault claims project in 2023
+Cleansed and processed 6 million rows of driver fault claims on Databricks using Pyspark.
+Extracted Data to apply ML techniques to predict good and bad customers.
 
 **CERTIFICATIONS**
 * *Azure : AZ-900*
