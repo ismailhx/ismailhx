@@ -15,7 +15,7 @@
 
 **PREVIOUS ROLES**
 
-- * *HSBC 2019* *
+- * * Data work experience at HSBC 2019* *
 Data work experience learning how to maintain and develop models on Google Cloud.
 Engaged with Cloud, Data and AI Experts.
 
