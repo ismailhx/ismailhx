@@ -16,16 +16,16 @@
 
 **PREVIOUS ROLES**
 
-- * * Data work experience at HSBC 2019* *
+- * Data work experience at HSBC 2019* *
 Data work experience learning how to maintain and develop models on Google Cloud.
 Engaged with Cloud, Data and AI Experts.
 
-- * *Data/ML Engineer at Glencore 2023* *
+- * Data/ML Engineer at Glencore 2023* *
 Head of oil shipping vessel project in 2023
 Cleansed and processed millions of complicated oil shipping vessel datasets on Azure Analytics using Pyspark.
 Produced Views using SQL and then analysed using ML techniques.
 
-- * *Data/ML Engineer at AA 2024* *
+- * Data/ML Engineer at AA 2024* *
 Head of driver fault claims project in 2024
 Cleansed and processed 6 million rows of £50,000's worth of driver fault claims on Databricks using Pyspark.
 Extracted Data to apply ML techniques to predict good and bad customers.
@@ -39,9 +39,9 @@ Extracted Data to apply ML techniques to predict good and bad customers.
 * *Greater Learning Academy : Google Colabratory*
 * *MachineLearning.org.in : ChatGPT*
 * *Academic excellence scholarship at the University of Kent*
--
--
--
+
+
+
 **MACHINE LEARNING**
 * *CNN’s*
 * *RNN’s*
