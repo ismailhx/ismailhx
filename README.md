@@ -4,7 +4,6 @@
 
 
 🎓 Currently a Robotics (AI) Postgraduate at Kings College 
-
 🎓 1st class graduate at the University of Kent - Artificial Intelligence
 
 
@@ -36,11 +35,10 @@ Extracted Data to apply ML techniques to predict good and bad customers.
 * *Greater Learning Academy : Python Data Structures*
 * *Greater Learning Academy : Google Colabratory*
 * *MachineLearning.org.in : ChatGPT*
-
-
-
 * *Academic excellence scholarship at the University of Kent*
-  
+-
+-
+-
 **MACHINE LEARNING**
 * *CNN’s*
 * *RNN’s*
