@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ismailhx
 
-### 🧠 Data Cleansing Specialist | Machine Learning Engineer | Robotics (AI) Postgraduate
+### 🧠   Machine Learning Engineer | Data Cleansing Specialist | Robotics (AI) Postgraduate
 
 ---
 
