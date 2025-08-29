@@ -61,7 +61,7 @@ AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and report
 
 ---
 
-### 🤖 Machine Learning & AI
+### 🤖 Data Science / Machine Learning & AI
 
 - Convolutional Neural Networks (CNNs)  
 - Recurrent Neural Networks (RNNs)  
