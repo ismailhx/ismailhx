@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @ismailhx
 
-### 🧠  End to End Machine Learning Engineer - from ETL & Data Analysis to ML Deployment | Robotics (AI) Postgraduate
+### 🧠  End to End Machine Learning Engineer - from ETL & Data Analysis to ML Deployment
 
 ---
 
-🎓 Currently a **Robotics (AI) Postgraduate at King's College London**  
+🎓 **Robotics (AI) Postgraduate at King's College London**  
 🎓 Graduated with **First Class Honours in Artificial Intelligence** from the University of Kent  
 🏅 **UGOTY AI & Robotics Finalist 2023**
 
@@ -12,23 +12,38 @@
 
 ### 💼 About Me
 
-I'm a data cleansing and machine learning expert with **8+ years of experience** cleaning, transforming, modelling and deploying complex datasets across multiple industries, including **finance**, **oil & shipping**, and **automotive insurance**.
-
-From building scalable data pipelines in **Azure and Databricks** to crafting predictive models using **Scikit-learn, PySpark**, and **Keras**, my expertise lies in creating clean, actionable data that powers real-world AI systems.  
-
----
+Microsoft Azure-certified Data specialist.
+A technologist with 8 years of versatile experience in:
+AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and reporting, across various sectors, including finance, insurance, and energy.
 
 ### 🚀 Experience
 
-#### 🔹 Data/ML Engineer — *AA UK (2024)*  
-- Led the **Driver Fault Claims** ML project  
-- Cleansed and processed **6 million rows of claims data** using PySpark on **Databricks**  
-- Applied ML techniques to predict **customer risk profiles**
+#### AI Specialist / Director & Founder — Dagmaker (2025)
+- **AI Development Company for clients**
+- Examples include the Development of 'Research Wizard' for **AI based document analysis, presentation, essay and video reel automation with applications in robotic task planning and data processing**.
+- Development of front end and backend services utilising open source **LLMS, FAISS, ONNX, Indexes, Gemini and OpenAI endpoints**.
+- Development of E-commerce AI enabled cross listing platform utilising **RAG & Generative AI** to increase sales for customers.
 
-#### 🔹 Data/ML Engineer — *Glencore (2023)*  
-- Headed the **Oil Shipping Vessel** data project  
-- Processed **millions of records** on Azure Analytics with PySpark  
-- Generated SQL-based views and applied ML to optimise shipping operations
+#### AI Robotics Development — *GRASPI (2025)*
+- Developed a **human-like grasping robot with a YOLOV11 computer vision model** and **autonomous pose detection** to capturing varying space debris.
+- Presented at a London conference to **200+ industry experts**, praised for its real-world potential in orbital debris removal.
+
+#### AI Robotics Development — *BoxDocker (2025)*
+- A space debris removal system developed in simulation using **NVIDIA Isaac Sim, a YOLOV11 computer vision model and ROS2**.
+- Designed to simulate a **multimodal robotic collector** operating in orbit
+- **Computer Vision Model** autonomously detected varying debris in a space simulated environment.
+
+#### 🔹 Data/ML Engineer — *AA (2024)*  
+- Led the ML analysis of **Driver Insurance Claims accross the UK**   
+- Created an end to end pipeline to cleansed and processed **6 million rows of claims data** using PySpark on **Databricks**  
+- **Developed ML in house models** to predict **customer risk profiles** before applying unique pricing to individual customers
+- Saved several **millions** through price optimisation
+
+#### 🔹 Data and Analysis Engineer — *Glencore (2023)*  
+- Led the migration of **Oil Shipping Vessel Data** through ETL to Azure Cloud Platform.
+- Created a robust set of daily pipelines processing **millions of records** on Azure Analytics with PySpark.;  
+- Generated **SQL-based views and PowerBI Reports** before applying **ML** to optimise shipping operations
+- Saved several **millions of dollars** in shipping trips
 
 #### 🔹 Data Work Experience — *HSBC (2019)*  
 - Learnt about model maintenance and development using **Google Cloud**  
@@ -57,51 +72,29 @@ From building scalable data pipelines in **Azure and Databricks** to crafting pr
 - Word2Vec  
 - Computer Vision (CV)  
 
----
 
-### 🐍 Python Stack
+### 💻 Data Engineering
 
-- **Expert Python Programmer**  
-- **PySpark** | **Pandas** | **NumPy**  
-- **Scikit-learn** (Random Forest, Decision Tree, train_test_split, etc.)  
-- **Keras** | **Matplotlib**  
+- Azure 
+- Azure Data Factory 
+- Azure Synapse Analytics 
+- Databricks 
+- GCP (Google Cloud Platform) 
+- ETL (Extract, Transform, Load) 
+- Big Data Processing 
+- PySpark 
+- SQL 
 
----
+### 📊 Data Analysis
+- Dashboarding 
+- Power BI 
+- DAX (Data Analysis Expressions) 
+- PowerQuery 
+- Pandas 
+- Numpy 
+- Predictive Modelling 
+- Stakeholder Translation 
 
-### ☕ Project Highlight: `brew-clean`
-
-**An award-winning coffee dataset cleansing and ML pipeline built with Scikit-Learn and Dash.**  
-Designed to showcase best practices in **data quality, preprocessing, and visualisation**.  
-
----
-
-### 💻 Tech Experience
-
-- **Java** (Inheritance, GUIs, basic games)  
-- **Web Development:** HTML, CSS, JS, jQuery, React, CodeIgniter  
-- **SQL**, Relational Algebra, Data Modelling (ERD to Physical)  
-- **Tools:** Jupyter, Colab, VS Code, GitHub, Pycharm, IntelliJ  
-- **Environments:** Azure Synapse, Databricks, Google Cloud, UNIX  
-
----
-
-### 🧠 Robotics & Academic Highlights
-
-- Strong foundation in **AI for Robotics**  
-- Consistent academic performance:
-  - **Year 1 Avg:** 88.5% (Distinction)  
-  - **Year 2 Avg:** 76% (Distinction)  
-- Finalist in multiple AI and Robotics challenges  
-
----
-
-### 🎯 Interests
-
-- Big Query  
-- Blockchain fundamentals  
-- Applying AI to real-world optimisation and automation problems  
-
----
 
 <!---
 ismailhx/ismailhx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
