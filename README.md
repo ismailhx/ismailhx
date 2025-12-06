@@ -62,7 +62,9 @@ AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and report
 ---
 
 ### 🤖 Data Science / Machine Learning & AI
-
+- Agentic AI Integration and Development
+- RAG Development
+- LLM Integration
 - Convolutional Neural Networks (CNNs)  
 - Recurrent Neural Networks (RNNs)  
 - K-Nearest Neighbours (KNNs)  
