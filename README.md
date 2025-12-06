@@ -13,7 +13,7 @@
 ### 💼 About Me
 
 Microsoft Azure-certified Data specialist.
-A technologist with 8 years of versatile experience in:
+A technologist with several years of versatile experience in:
 AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and reporting, across various sectors, including finance, insurance, and energy.
 
 ### 🚀 Experience
