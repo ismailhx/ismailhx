@@ -18,17 +18,17 @@ AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and report
 
 ### 🚀 Experience
 
-#### AI Specialist / Director & Founder — Dagmaker (2025)
+#### 🔹 AI Specialist / Director & Founder — Dagmaker (2025)
 - **AI Development Company for clients**
 - Examples include the Development of 'Research Wizard' for **AI based document analysis, presentation, essay and video reel automation with applications in robotic task planning and data processing**.
 - Development of front end and backend services utilising open source **LLMS, FAISS, ONNX, Indexes, Gemini and OpenAI endpoints**.
 - Development of E-commerce AI enabled cross listing platform utilising **RAG & Generative AI** to increase sales for customers.
 
-#### AI Robotics Development — *GRASPI (2025)*
+#### 🔹 AI Robotics Development — *GRASPI (2025)*
 - Developed a **human-like grasping robot with a YOLOV11 computer vision model** and **autonomous pose detection** to capturing varying space debris.
 - Presented at a London conference to **200+ industry experts**, praised for its real-world potential in orbital debris removal.
 
-#### AI Robotics Development — *BoxDocker (2025)*
+#### 🔹 AI Robotics Development — *BoxDocker (2025)*
 - A space debris removal system developed in simulation using **NVIDIA Isaac Sim, a YOLOV11 computer vision model and ROS2**.
 - Designed to simulate a **multimodal robotic collector** operating in orbit
 - **Computer Vision Model** autonomously detected varying debris in a space simulated environment.
