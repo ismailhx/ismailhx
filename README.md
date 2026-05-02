@@ -1,14 +1,6 @@
 # 👋 Hi, I’m @ismailhx
 
-### 🧠  End to End Machine Learning Engineer - from ETL & Data Analysis to ML Deployment
-
----
-
-🎓 **Robotics (AI) Postgraduate at King's College London**  
-🎓 Graduated with **First Class Honours in Artificial Intelligence** from the University of Kent  
-🏅 **UGOTY AI & Robotics Finalist 2023**
-
----
+### 🧠  End to End Lead AI Engineer / Head of AI Solutions
 
 ### 💼 About Me
 
@@ -16,9 +8,26 @@ Microsoft Azure-certified Data specialist.
 A technologist with several years of versatile experience in:
 AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and reporting, across various sectors, including finance, insurance, and energy.
 
+---
+
+### 🎓 Education
+
+🎓 **Robotics (AI) Postgraduate at King's College London**  
+🎓 Graduated with **First Class Honours in Artificial Intelligence** from the University of Kent  
+🏅 **UGOTY AI & Robotics Finalist 2023**
+
+---
+
 ### 🚀 Experience
 
-#### 🔹 AI Specialist / Director & Founder — Dagmaker (2025)
+#### 🔹 Lead Data/AI Specialist (2025-2026)
+- Mentored and led senior, mid-level, and junior developers from industry clients including Google, Barclays, Palantir Technologies, and Thales Group to build high-quality, end-to-end data solutions.
+- Drove business impact for clients by delivering MLOps and LLMOps solutions, combining industry best practices with hands-on senior engineering, pair programming, and development of AI systems across data engineering, RAG, and generative AI applications.
+- Advised stakeholders on AI strategy, including roadmaps, risk mitigation, and ethical AI governance frameworks.
+- Authored internal technical blogs and delivered workshops on scalable, multimodal architectures.
+
+
+#### 🔹 AI Specialist / Director & Founder — Dagmaker (2025-)
 - **AI Development Company for clients**
 - Examples include the Development of 'Research Wizard' for **AI based document analysis, presentation, essay and video reel automation with applications in robotic task planning and data processing**.
 - Development of front end and backend services utilising open source **LLMS, FAISS, ONNX, Indexes, Gemini and OpenAI endpoints**.
@@ -33,13 +42,13 @@ AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and report
 - Designed to simulate a **multimodal robotic collector** operating in orbit
 - **Computer Vision Model** autonomously detected varying debris in a space simulated environment.
 
-#### 🔹 Data/ML Engineer — *AA (2024)*  
+#### 🔹 Data/AI Engineer — *AA (2024)*  
 - Led the ML analysis of **Driver Insurance Claims accross the UK**   
 - Created an end to end pipeline to cleansed and processed **6 million rows of claims data** using PySpark on **Databricks**  
 - **Developed ML in house models** to predict **customer risk profiles** before applying unique pricing to individual customers
 - Saved several **millions** through price optimisation
 
-#### 🔹 Data and Analysis Engineer — *Glencore (2023)*  
+#### 🔹 Data and AI Engineer — *Glencore (2023)*  
 - Led the migration of **Oil Shipping Vessel Data** through ETL to Azure Cloud Platform.
 - Created a robust set of daily pipelines processing **millions of records** on Azure Analytics with PySpark.;  
 - Generated **SQL-based views and PowerBI Reports** before applying **ML** to optimise shipping operations
@@ -58,44 +67,6 @@ AI/ML develpoment and deployment, Data Engineering ETL, Data Analysis and report
 - **Greater Learning Academy:** Python, Seaborn, Matplotlib, Google Colab  
 - **MachineLearning.org.in:** ChatGPT  
 - **Academic Excellence Scholarship** — University of Kent  
-
----
-
-### 🤖 Data Science / Machine Learning & AI
-- Agentic AI Integration and Development
-- RAG Development
-- LLM Integration
-- Convolutional Neural Networks (CNNs)  
-- Recurrent Neural Networks (RNNs)  
-- K-Nearest Neighbours (KNNs)  
-- Reinforcement Learning  
-- Regression & Classification  
-- Genetic Algorithms  
-- Word2Vec  
-- Computer Vision (CV)  
-
-
-### 💻 Data Engineering
-
-- Azure 
-- Azure Data Factory 
-- Azure Synapse Analytics 
-- Databricks 
-- GCP (Google Cloud Platform) 
-- ETL (Extract, Transform, Load) 
-- Big Data Processing 
-- PySpark 
-- SQL 
-
-### 📊 Data Analysis
-- Dashboarding 
-- Power BI 
-- DAX (Data Analysis Expressions) 
-- PowerQuery 
-- Pandas 
-- Numpy 
-- Predictive Modelling 
-- Stakeholder Translation 
 
 
 <!---
